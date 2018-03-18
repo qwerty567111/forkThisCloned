@@ -6,7 +6,7 @@
 
 ### Description
 
-Create a description and fill it in here.
+My new description.
 
 ## Languages used
 
